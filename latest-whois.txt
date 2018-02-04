@@ -1,0 +1,77 @@
+Domain Name: acfun.com
+Registry Domain ID: 19363865_DOMAIN_COM-VRSN
+Registrar WHOIS Server: grs-whois.hichina.com
+Registrar URL: http://whois.aliyun.com
+Updated Date: 2018-02-02T06:31:48Z
+Creation Date: 2000-02-08T05:37:24Z
+Registrar Registration Expiration Date: 2019-02-08T05:37:24Z
+Registrar: HiChina Zhicheng Technology Ltd.
+Registrar IANA ID: 420
+Reseller:
+Domain Status: clientHold https://icann.org/epp#clientHold
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Liu Yan Yan
+Registrant Organization: Liu Yan Yan
+Registrant Street: Wang Jing Rong Ke Zhong Xin AZuo
+Registrant City: guang zhou
+Registrant State/Province: bei jing
+Registrant Postal Code: 100000
+Registrant Country: CN
+Registrant Phone: +86.13910976150
+Registrant Phone Ext: 
+Registrant Fax: +86.13910976150
+Registrant Fax Ext: 
+Registrant Email: acfun@acfun.tv
+Registry Admin ID: Not Available From Registry
+Admin Name: Liu Yan Yan
+Admin Organization: Liu Yan Yan
+Admin Street: Bei Jing Shi Chao Yang Qu Rong Ke Wang Jing Zhong Xin BZuo 2003
+Admin City: bei jing shi
+Admin State/Province: bei jing
+Admin Postal Code: 100080
+Admin Country: CN
+Admin Phone: +86.13910976150
+Admin Phone Ext: 
+Admin Fax: +86.13910976150
+Admin Fax Ext: 
+Admin Email: acfun@acfun.tv
+Registry Tech ID: Not Available From Registry
+Tech Name: Liu Yan Yan
+Tech Organization: Liu Yan Yan
+Tech Street: Wang Jing Rong Ke Zhong Xin BZuo 2003
+Tech City: guang zhou
+Tech State/Province: bei jing
+Tech Postal Code: 100000
+Tech Country: CN
+Tech Phone: +86.13910976150
+Tech Phone Ext: 
+Tech Fax: +86.13910976150
+Tech Fax Ext: 
+Tech Email: acfun@acfun.tv
+Name Server: NS3.DNSV3.COM
+Name Server: NS4.DNSV3.COM
+DNSSEC: unsigned
+Registrar Abuse Contact Email: DomainAbuse@service.aliyun.com
+Registrar Abuse Contact Phone: +86.95187
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>>Last update of WHOIS database: 2018-02-04T03:36:40Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+        
+Registry Billing ID: Not Available From Registry
+Billing Name: Liu Yan Yan
+Billing Organization: Liu Yan Yan
+Billing Street: Bei Jing Shi Chao Yang Qu Rong Ke Wang Jing Zhong Xin BZuo 2003
+Billing City: bei jing shi 
+Billing State/Province: bei jing
+Billing Postal Code: 100080
+Billing Country: CN
+Billing Phone: +86.13910976150
+Billing Phone Ext:  
+Billing Fax: +86.13910976150
+Billing Fax Ext: 
+Billing Email: acfun@acfun.tv
+
+Important Reminder: Per ICANN 2013RAA`s request, Hichina has modified domain names`whois format of dot com/net/cc/tv, you could refer to section 1.4 posted by ICANN on http://www.icann.org/en/resources/registrars/raa/approved-with-specs-27jun13-en.htm#whois The data in this whois database is provided to you for information purposes only, that is, to assist you in obtaining information about or related to a domain name registration record. We make this information available "as is," and do not guarantee its accuracy. By submitting a whois query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (1)enable high volume, automated, electronic processes that stress or load this whois database system providing you this information; or (2) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone.  The compilation, repackaging, dissemination or other use of this data is expressly prohibited without prior written consent from us. We reserve the right to modify these terms at any time. By submitting this query, you agree to abide by these terms.For complete domain details go to:http://whois.aliyun.com/whois/domain/hichina.com
