@@ -1,3 +1,19 @@
+Time:18/2/5
+Domain Name: acfun.cn
+ROID: 20070605s10001s71726662-cn
+Domain Status: clientDeleteProhibited
+Domain Status: clientTransferProhibited
+Registrant ID: 22cn160826zei3uf
+Registrant: 北京弹幕网络科技有限公司
+Registrant Contact Email: acfun@acfun.tv
+Sponsoring Registrar: 浙江贰贰网络有限公司
+Name Server: vip1.alidns.com
+Name Server: vip2.alidns.com
+Registration Time: 2007-06-05 11:01:14
+Expiration Time: 2019-06-05 11:01:14
+DNSSEC: unsigned
+-----------
+Time:18/2/4
 Domain Name: acfun.com
 Registry Domain ID: 19363865_DOMAIN_COM-VRSN
 Registrar WHOIS Server: grs-whois.hichina.com
