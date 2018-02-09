@@ -1,0 +1,29 @@
+# Acfun Mayday 手记
+## 可我相信光明，就在远方。
+---
+## Emergency Contact：
+## acfunmayday@163.com 站点联系
+## whoamimsn@hotmail.com 紧急联系
+## [抱团取暖群（趋势科技大猴子和Infinite Tech成员均在）](https://jq.qq.com/?_wv=1027&k=5sgN6bD)
+---
+## 目前acfun域名归属：北京弹幕
+## 目前acfun阿里服务器：数据达到回收期限（但我相信狗阿里是会保留qemu虚拟硬盘的）
+## 目前acfun访问状态：*[AC名字站](http://acfun.name)*检测不通过，*[BoomFun站](http://live.boomfun.work/)*检测不通过，*Infinite 科技团队*手动访问不通过。
+## ~~我觉得这次稳了~~
+---
+# 雷达引导
+## 最靠谱信息来源
+## [趋势科技 acfun纯html站](http://acfun.io)
+## [BoomFun直播&爬虫检测](http://live.boomfun.work/)
+## [AcFun 名字站](http://acfun.name)
+  
+## 次靠谱信息来源
+## *注意：这些信息依靠于单一地区访问。请参照上方信息点使用。*
+## [acfun 万网亲爹WHOIS页面](https://whois.aliyun.com/whois/domain/acfun.cn)
+## [站长之家死链接检测](http://tool.chinaz.com/deadlinks/?DAddress=acfun.cn&ddlLink=0&spidertype=1)
+## [站长之家多路Ping检测](http://tool.chinaz.com/ping/)
+## [站长之家 Whois](http://whois.chinaz.com/)
+   
+## 最不靠谱信息源
+## [AcFun Mayday 技术博客](http://acfunmayday.github.io/tech)
+## 这不是自黑，这只是因为我真的不靠谱
